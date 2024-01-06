@@ -9,7 +9,7 @@
 
 点击下方按钮一键部署，还没注册的可以选择github登陆然后绑定手机即可
 
-[![Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/papagaye744/iptv-go)
+[![Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/lucawong/iptv-go)
 
 ### ~~方式二~~
 
